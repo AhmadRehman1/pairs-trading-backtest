@@ -3,7 +3,7 @@
 A mean-reversion statistical arbitrage backtest on Coca-Cola (KO) and PepsiCo (PEP),
 built to test whether a classic textbook pairs trade actually holds up on real data.
 
-**It doesn't - and the reason why is the point of the project.**
+I found that it does not and here's why:
 
 ## Headline finding
 
